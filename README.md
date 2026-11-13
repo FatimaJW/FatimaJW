@@ -9,7 +9,7 @@ Currently seeking a 2027/2028 industrial placement/internship in technology.
 - Contact: Timajawad19@outlook.com
 
 ## What i've done:
-- Built a jukebox simulator: https://github.com/FatimaJW/Jukebox-Simulator
+-    - Built a [Jukebox Simulator](https://github.com/FatimaJW/Jukebox-Simulator) in Python (Tkinter GUI, classes, pytest tests).
 
 <!--
 **FatimaJW/FatimaJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
